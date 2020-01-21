@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "estudo-ci-cd",
+  "private_key_id": "5cb9e1ce8e3fe89d9953a8201582a778d2a2dd87",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCn2o6lmxaBjzNE\nhg84N0KcJGEAzeaTsp0IZTY5SCg0gos57dkQozhBpcgJDyl/fUqhfIIft33Mu4uV\niHi0WSqWyeVKGJrej0ccuVgvjouVZqFVNLfl5KGr4xTvEsH4DgFIsnMEWRWh+DAt\nen1WmPA/Ye2c64958SFivnBUp9epzqx1HAsHLq7yPa2u26hhcTq0ED82cyTTbWtr\nBs8v6AYNRodHnqnW5TDV9jHkrp30wliBNIkJAN0lsoCYkabB3En0i3dwzI5VQ/vI\nC74MpdFnlO8b0YF49hJAUnuqUfSLkMSfkciuqvcwVJlT1OYmUGFA7x28AmUdCQ0L\n5MeVg6uzAgMBAAECggEAIlksJaFl6p9GK3iPdr6AJ/mdzA9WZtT/I2+qt/AXIh+w\no+sTJz9vTKfDFm9+23LlKcST0C+5U4LxXmkt4iH5ACBShmYgkviY4bzf2eN+ltUI\noKoIE8hEeSsf5ohdHwimpJy3wqUEMz/ZhATzzxu+1gmRGTJvCtIYNd+olvo9vKaU\nWOXxYM7SETKoU3iUmW5AVUjQrDF/v4OaPCooWlV5+vL9YLBmD0d/0sBr0tevJauD\n+dWzxsY1J+GzvmwkbWz55YMai9vv/ccf4ryNCKfDzBIbvaJoaKOFsHeEfc4PdnNt\nIF4CKX6WA5wFvbjmLdIRwrRidJuijKZmXL/DlCAqEQKBgQDagmj1k/lTDv8kx3H+\nI2v/oanP4FaYTF5jR9SGSuQNNaB+pCwDxGZPhzjdocdMG3R+CVejiUWcEvggjIsy\n+x3frlHCCoHqykgxKP4zi4qsR7maBVO9TqXOY1iDhkck5D44zSKM+hmA73BiuS+Q\napb1Yuv6zyrOzrcpqsutEPk/iwKBgQDEpzKhQt8s5ANZdz+rFPt7Gsb8ppFMFWDQ\nIqeJk8H53XO/Ybq2uU1S18/G7DsQATmqCIFCL2MQs05ITFGICa44v6Y6M3ysZ9Hc\nG/sWJ3MiwrSHRvlYrOHeRdPK4ASttDWie/9wZmKgm5nMZhnpgU7MnRakYra7d2Zj\nrB1aqIJJeQKBgEEYgLRIdQpteU03rZoMa2woeTJYnvOYLLZe+81WGkJlK38O4Z3t\nsJ0Yp7Q/MeRWeYnitp0dlAM/E3R+6ikx7mBoyiqIftO3l3ItyC0K8TEJ3R0pYR0Q\nhQzLQ99K7X7sEC1Tz2s4RsjGjDCdArJ/TqGj6rE5boNVyfM70pmoaNipAoGAbbyL\nYTeqyCcYw2Tq73IO/1wq7DOa4uUPGDYuXXRJi0ALZiGICo0O3Aq31F5gewbkAcEr\nOB6vXlNgfLGx0YLtaJdxkArJKH/quLQYgf1Tn3MdQFvXqqcWh21ZyV0G31OvllMx\ncKyBnvQVd90F2qqgqUeDqgm3xJbVWQtjegKMaakCgYB3j3BFB6cH6jQhZul9CDhF\n8zCUS3jijvkJrogMoJPdxzNavXu/Ooubb3bnocgyowf+5JJ8HraWah3XV1CXp5Ea\nXDCIOdT1JRrppIvk9jvY28088xZHXwJ/JK+tWMpNThK2vhzUFGPHu25uKNv/RNXc\nhpUhhxPrTeSQRhvKBYGl7Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pubsub-sa-owner@estudo-ci-cd.iam.gserviceaccount.com",
+  "client_id": "109347670407913984970",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pubsub-sa-owner%40estudo-ci-cd.iam.gserviceaccount.com"
+}
